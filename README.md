@@ -1,4 +1,4 @@
-Algumas regras que para os codigos ficarem o mais simples de entender e encontrar.
+Algumas regras que é para os codigos ficarem o mais simples de entender e encontrar.
   
   
   
